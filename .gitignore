@@ -6,6 +6,9 @@ client/.env.local
 client/.env.development
 client/.env.production
 server/.env
+server/.env.local
+server/.env.development
+server/.env.production
 
 client/.next/
 
